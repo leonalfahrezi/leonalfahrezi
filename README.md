@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java, Python, SQL!**
 
-- 👨‍💻 All of my projects are available at [I'll put it later!](I'll put it later!)
+- 👨‍💻 All of my projects are available at **I'll put it later!**
 
 - 📫 How to reach me **leonalfahrezi@gmail.com**
 
