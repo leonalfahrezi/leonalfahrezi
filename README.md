@@ -1,13 +1,13 @@
 [![MasterHead](https://user-images.githubusercontent.com/112455924/209546377-6e85ca1c-ceb1-4b93-a446-0d34622cd473.jpg)](https://github.com/leonalfahrezi)
 <h1 align="center">Hi 👋, I'm Leon!</h1>
-<h3 align="center">A passionate programming especially in Big Data like Data Science/Analyst, Backend Engineer, etc.</h3>
+<h3 align="center">I'm a self-taught passionate in Big Data like Data Science/Analyst, Backend Engineer, etc.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/112455924/209546438-3a5a00b9-7d07-48c2-84bc-e32ec615718f.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonalfahrezi&label=Profile%20views&color=0e75b6&style=flat" alt="leonalfahrezi" /> </p>
 
 - 🌱 I’m currently learning **Java, Python, SQL!**
 
-- 👨‍💻 All of my projects are available at **I'll put it later!**
+- 👨‍💻 All of my projects are available at [here]**https://github.com/leonalfahrezi?tab=repositories**
 
 - 📫 How to reach me **leonalfahrezi@gmail.com**
 
