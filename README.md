@@ -1,7 +1,7 @@
-[![MasterHead](https://user-images.githubusercontent.com/112455924/209546377-6e85ca1c-ceb1-4b93-a446-0d34622cd473.jpg)](https://github.com/leonalfahrezi)
+[![MasterHead](https://github.com/leonalfahrezi/leonalfahrezi/blob/main/header.jpg)](https://github.com/leonalfahrezi)
 <h1 align="center">Hi 👋, I'm Leon!</h1>
 <h3 align="center">I'm a self-taught passionate in Big Data like Data Science/Analyst, Backend Engineer, etc.</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/112455924/209546438-3a5a00b9-7d07-48c2-84bc-e32ec615718f.jpg">
+<img align="right" alt="Coding" width="400" src="https://github.com/leonalfahrezi/leonalfahrezi/blob/main/jakee.jpg">
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonalfahrezi&label=Profile%20views&color=0e75b6&style=flat" alt="leonalfahrezi" /> </p> -->
 
@@ -21,7 +21,6 @@
 <a href="https://linkedin.com/in/leonalfahrezi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonalfahrezi" height="30" width="40" /></a>
 <a href="https://instagram.com/leonalfahrezi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leonalfahrezi" height="30" width="40" /></a>
 </p>
-<br />
 
 ____
 <h3 align="center"> 📚 Languages and Tools 🧰</h3>
