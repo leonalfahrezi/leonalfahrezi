@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/leonalfahrezi/leonalfahrezi/blob/main/header.jpg)](https://github.com/leonalfahrezi)
+[![MasterHead](https://github.com/leonalfahrezi/leonalfahrezi/blob/main/aqua.jpg)](https://github.com/leonalfahrezi)
 <h1 align="center">Hi 👋, I'm Leon!</h1>
 <h3 align="center">I'm a self-taught passionate in Big Data like Data Science/Analyst, Backend Engineer, etc.</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/leonalfahrezi/leonalfahrezi/blob/main/study.jpg">
@@ -31,7 +31,7 @@ ____
 <h3 align="center">📊 Statistics 📊</h3>
 
 <h3 align="center">
- <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=leonalfahrezi&theme=dark&background=FD2D2D00&hide_border=true&currStreakNum=DD0000&sideLabels=DD2727&sideNums=1CDDAD" alt="NoushadBug"/>
+ <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=leonalfahrezi&theme=dark&background=FD2D2D00&hide_border=true&currStreakNum=DD0000&sideLabels=DD2727&sideNums=1CDDAD" alt="leonalfahrezi"/>
 </h3>
 
 | [![Leon's github stats](https://github-readme-stats.vercel.app/api?username=leonalfahrezi&count_private=true&show_icon=true&card_width=400&bg_color=00000000&title_color=FA8C00&text_color=949CA5&show_icons=true&hide_border=true&icon_color=CC5160)](https://github-readme-stats.vercel.app/api?username=leonalfahrezi&count_private=true&show_icon=true&card_width=400&bg_color=80,bdc3c7,2c3e50&title_color=fff&text_color=fff&icon_color=58A6FF) | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonalfahrezi&hide=jupyter%20notebook,html&card_width=400&bg_color=00000000&title_color=FA8C00&text_color=949CA5&show_icons=true&hide_border=true&icon_color=CC5160" alt="leonalfahrezi"/></a> |
@@ -47,16 +47,3 @@ ____
 <h3 align="center"><img align="center" src="https://github.com/leonalfahrezi/leonalfahrezi/blob/main/element.png" alt="leonalfahrezi"/></h3>
 
 ---
-<!-- | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonalfahrezi&layout=compact&hide_border=true&hide=jupyter%20notebook,html&theme=graywhite" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leonalfahrezi&repo=ForecastingExportProductWithARIMA_Method&hide_border=true&theme=graywhite" /></a> |
-| ------------- | ------------- | -->
-
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a> -->
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leonalfahrezi&show_icons=true&locale=en" alt="leonalfahrezi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leonalfahrezi&" alt="leonalfahrezi" /></p> -->
