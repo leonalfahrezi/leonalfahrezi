@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/leonalfahrezi/leonalfahrezi/blob/main/header.jpg)](https://github.com/leonalfahrezi)
 <h1 align="center">Hi 👋, I'm Leon!</h1>
 <h3 align="center">I'm a self-taught passionate in Big Data like Data Science/Analyst, Backend Engineer, etc.</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/leonalfahrezi/leonalfahrezi/blob/main/jakee.jpg">
+<img align="right" alt="Coding" width="400" src="https://github.com/leonalfahrezi/leonalfahrezi/blob/main/jake.jpg">
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonalfahrezi&label=Profile%20views&color=0e75b6&style=flat" alt="leonalfahrezi" /> </p> -->
 
