@@ -43,14 +43,12 @@ ____
 
 <h3 align="center">📌 Pinned Repository 📌</h3>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leonalfahrezi&repo=DataSteamCaseAnalyst&bg_color=00000000&title_color=FA8C00&text_color=949CA5&hide_border=true&icon_color=CC5160" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leonalfahrezi&repo=ForecastingExportProductWithARIMA_Method&bg_color=00000000&title_color=FA8C00&text_color=949CA5&hide_border=true&icon_color=CC5160" /></a> | 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leonalfahrezi&repo=DataSteamCaseAnalyst&bg_color=00000000&title_color=FA8C00&text_color=949CA5&hide_border=true&icon_color=CC5160" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leonalfahrezi&repo=ForecastingExportProductWithARIMA_Method&bg_color=00000000&title_color=FA8C00&text_color=949CA5&hide_border=true&icon_color=CC5160"/></a> | 
 | :--: | :--: | 
 
---- 
-
-
 <h3 align="center"><img align="center" src="https://github.com/leonalfahrezi/leonalfahrezi/blob/main/anime-girl-art-train-night-city-wallpaper-1600x480_68.jpg" alt="leonalfahrezi"/></h3>
+
+---
 <!-- | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonalfahrezi&layout=compact&hide_border=true&hide=jupyter%20notebook,html&theme=graywhite" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leonalfahrezi&repo=ForecastingExportProductWithARIMA_Method&hide_border=true&theme=graywhite" /></a> |
 | ------------- | ------------- | -->
 
