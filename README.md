@@ -39,7 +39,7 @@ ____
 
 ---
 
-<h3 align="center">📌 Pinned Repository 📌</h3>
+<h3 align="center">📌 Top Repositories 📌</h3>
 
 | <a href="https://github.com/leonalfahrezi/DataSteamCaseAnalyst"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leonalfahrezi&repo=DataSteamCaseAnalyst&bg_color=00000000&title_color=FA8C00&text_color=949CA5&hide_border=true&icon_color=CC5160" /></a> | <a href="https://github.com/leonalfahrezi/ForecastingExportProductWithARIMA_Method"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leonalfahrezi&repo=ForecastingExportProductWithARIMA_Method&bg_color=00000000&title_color=FA8C00&text_color=949CA5&hide_border=true&icon_color=CC5160"/></a> | 
 | :--: | :--: | 
