@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonalfahrezi&label=Profile%20views&color=0e75b6&style=flat" alt="leonalfahrezi" /> </p> -->
 
-- ❤️ I’m currently learning **Java, Python, JS and HTML**
+- ❤️ I’m currently learning **Java, Python, JS, CSS and HTML**
 
 - 👨‍💻 All of my projects are available at **[here](https://github.com/leonalfahrezi?tab=repositories)**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **leonalfahrezi@gmail.com**
 
-- ⚡ Fun fact **I like to read and watch some manga, manhwa, manhua, movie, anime and drama in my spare time.**
+- ⚡ Fun fact **I like to read and watch some manga, manhwa, manhua, movie, anime and drama in my spare time**
 
 
 <h3 align="left">Connect with me:</h3>
