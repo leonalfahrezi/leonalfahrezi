@@ -3,7 +3,7 @@
 <h3 align="center">I'm a self-taught passionate Developer and Big Data</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/leonalfahrezi/leonalfahrezi/blob/main/study.jpg">
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonalfahrezi&label=Profile%20views&color=0e75b6&style=flat" alt="leonalfahrezi" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=leonalfahrezi&label=Profile%20views&color=0e75b6&style=flat" alt="leonalfahrezi" /> </p>
 
 - ❤️ I’m currently learning **Java, Python and a bit Frontend thing**
 
