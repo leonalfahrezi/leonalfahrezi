@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonalfahrezi&label=Profile%20views&color=0e75b6&style=flat" alt="leonalfahrezi" /> </p> -->
 
-- ❤️ I’m currently learning **Java, Python, JS, CSS and HTML**
+- ❤️ I’m currently learning **Java, Python and a bit Frontend thing**
 
 - 👨‍💻 All of my projects are available at **[here](https://github.com/leonalfahrezi?tab=repositories)**
 
