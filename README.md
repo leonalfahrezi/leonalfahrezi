@@ -31,7 +31,7 @@ ____
 <h3 align="center">📊 Statistics 📊</h3>
 
 <h3 align="center">
- <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=leonalfahrezi&theme=dark&background=FD2D2D00&hide_border=true&currStreakNum=DD0000&sideLabels=DD2727&sideNums=1CDDAD" alt="leonalfahrezi"/>
+ <img align="center" src="https://streak-stats.demolab.com/?user=leonalfahrezi&theme=dark&background=FD2D2D00&hide_border=true&currStreakNum=DD0000&sideLabels=DD2727&sideNums=1CDDAD" alt="leonalfahrezi"/>
 </h3>
 
 | [![Leon's github stats](https://github-readme-stats.vercel.app/api?username=leonalfahrezi&count_private=true&show_icon=true&card_width=400&bg_color=00000000&title_color=FA8C00&text_color=949CA5&show_icons=true&hide_border=true&icon_color=CC5160)](https://github-readme-stats.vercel.app/api?username=leonalfahrezi&count_private=true&show_icon=true&card_width=400&bg_color=80,bdc3c7,2c3e50&title_color=fff&text_color=fff&icon_color=58A6FF) | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonalfahrezi&hide=jupyter%20notebook,plpgsql&card_width=400&bg_color=00000000&title_color=FA8C00&text_color=949CA5&show_icons=true&hide_border=true&icon_color=CC5160" alt="leonalfahrezi"/></a> |
